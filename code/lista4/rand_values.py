@@ -3,7 +3,7 @@ import random
 
 def main():
     if len(sys.argv) < 2:
-        print("Uso: python programa.py <quantidade> [i|f] [intervalo_inicial] [intervalo_final] <numero_vetores>")
+        print("Uso: python programa.py <quantidade> [i|f|if|fi] [intervalo_inicial] [intervalo_final] [numero_vetores]")
         sys.exit(1)
 
     try:
@@ -29,11 +29,11 @@ def main():
 
     # Numero de vetores a serem criados
     try:
-        numero_vetores = int(sys.argv[5])
+        numero_vetores = int(sys.argv[5]) if len(sys.argv) > 5 else 1
         if numero_vetores <= 0:
             raise ValueError
     except ValueError:
-        print("O argumento <numero_vetores> deve ser um inteiro positivo.")
+        print("O argumento [numero_vetores] deve ser um inteiro positivo.")
         sys.exit(1)
 
     valores = []
@@ -42,16 +42,46 @@ def main():
             for _ in range(quantidade):
                 valor = random.uniform(intervalo_inicial, intervalo_final)
                 valores.append(valor)
+        elif tipo == 'if':
+            for i in range(quantidade):
+                if (i % 2 == 0):
+                    valor = random.randint(int(intervalo_inicial), int(intervalo_final))
+                    valores.append(valor)
+                else:
+                    valor = random.uniform(intervalo_inicial, intervalo_final)
+                    valores.append(valor)
+        elif tipo == 'fi':
+            for i in range(quantidade):
+                if (i % 2 == 0):
+                    valor = random.uniform(intervalo_inicial, intervalo_final)
+                    valores.append(valor)
+                else:
+                    valor = random.randint(int(intervalo_inicial), int(intervalo_final))
+                    valores.append(valor)
         else:
             for _ in range(quantidade):
                 valor = random.randint(int(intervalo_inicial), int(intervalo_final))
                 valores.append(valor)
 
+    cont = 0
     for valor in valores:
+       
         if tipo == 'f':
             print(f"{valor:.2f}")
+        elif tipo == 'if':
+            if cont % 2 == 0:
+                print(valor)
+            else:
+                print(f"{valor:.2f}")
+            cont += 1
+        elif tipo == 'fi':
+            if cont % 2 == 0:
+                print(f"{valor:.2f}")
+            else:
+                print(valor)
+            cont += 1
         else:
             print(valor)
-            
+
 if __name__ == "__main__":
     main()
