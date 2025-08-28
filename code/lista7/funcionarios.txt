@@ -1,0 +1,301 @@
+100
+1001
+João da Silva
+3500.75
+1002
+Maria Oliveira
+4200.00
+1003
+Carlos Santos
+2800.50
+1004
+Ana Pereira
+5000.00
+1005
+Roberto Costa
+3100.25
+1006
+Fernanda Almeida
+3900.80
+1007
+Ricardo Souza
+4600.90
+1008
+Patrícia Lima
+3300.60
+1009
+Eduardo Rocha
+4800.40
+1010
+Juliana Martins
+3700.30
+1011
+Gustavo Pereira
+4100.20
+1012
+Camila Barbosa
+2900.10
+1013
+Felipe Costa
+4500.00
+1014
+Tatiane Silva
+3200.90
+1015
+Lucas Oliveira
+5000.50
+1016
+Mariana Souza
+3800.70
+1017
+André Santos
+4600.60
+1018
+Beatriz Lima
+3400.50
+1019
+Daniel Rocha
+4900.80
+1020
+Juliana Almeida
+3700.40
+1021
+Eduardo Martins
+4100.30
+1022
+Roberta Pereira
+2900.20
+1023
+Carlos Barbosa
+4500.10
+1024
+Patrícia Costa
+3200.00
+1025
+Ricardo Lima
+5000.60
+1026
+Fernanda Rocha
+3800.50
+1027
+Lucas Souza
+4600.40
+1028
+Mariana Santos
+3400.30
+1029
+André Lima
+4900.70
+1030
+Beatriz Almeida
+3700.20
+1031
+Daniel Martins
+4100.10
+1032
+Juliana Pereira
+2900.00
+1033
+Eduardo Barbosa
+4500.00
+1034
+Roberta Costa
+3200.10
+1035
+Carlos Rocha
+5000.50
+1036
+Patrícia Souza
+3800.40
+1037
+Ricardo Santos
+4600.30
+1038
+Fernanda Lima
+3400.20
+1039
+Lucas Almeida
+4900.60
+1040
+Mariana Rocha
+3700.10
+1041
+André Martins
+4100.00
+1042
+Beatriz Pereira
+2900.10
+1043
+Daniel Barbosa
+4500.10
+1044
+Juliana Costa
+3200.20
+1045
+Eduardo Souza
+5000.60
+1046
+Roberta Santos
+3800.50
+1047
+Carlos Lima
+4600.40
+1048
+Patrícia Almeida
+3400.30
+1049
+Ricardo Rocha
+4900.70
+1050
+Fernanda Martins
+3700.20
+1051
+Lucas Pereira
+4100.10
+1052
+Mariana Barbosa
+2900.00
+1053
+André Costa
+4500.00
+1054
+Beatriz Souza
+3200.10
+1055
+Daniel Santos
+5000.50
+1056
+Juliana Lima
+3800.40
+1057
+Eduardo Almeida
+4600.30
+1058
+Roberta Rocha
+3400.20
+1059
+Carlos Martins
+4900.60
+1060
+Patrícia Pereira
+3700.10
+1061
+Ricardo Barbosa
+4100.00
+1062
+Fernanda Costa
+2900.10
+1063
+Lucas Souza
+4500.10
+1064
+Mariana Santos
+3200.20
+1065
+André Lima
+5000.60
+1066
+Beatriz Almeida
+3800.50
+1067
+Daniel Rocha
+4600.40
+1068
+Juliana Martins
+3400.30
+1069
+Eduardo Pereira
+4900.70
+1070
+Roberta Barbosa
+3700.20
+1071
+Carlos Costa
+4100.10
+1072
+Patrícia Souza
+2900.00
+1073
+Ricardo Santos
+4500.00
+1074
+Fernanda Lima
+3200.10
+1075
+Lucas Almeida
+5000.50
+1076
+Mariana Rocha
+3800.40
+1077
+André Martins
+4600.30
+1078
+Beatriz Pereira
+3400.20
+1079
+Daniel Barbosa
+4900.60
+1080
+Juliana Costa
+3700.10
+1081
+Eduardo Souza
+4100.00
+1082
+Roberta Santos
+2900.10
+1083
+Carlos Lima
+4500.10
+1084
+Patrícia Almeida
+3200.20
+1085
+Ricardo Rocha
+5000.60
+1086
+Fernanda Martins
+3800.50
+1087
+Lucas Pereira
+4600.40
+1088
+Mariana Barbosa
+3400.30
+1089
+André Costa
+4900.70
+1090
+Beatriz Souza
+3700.20
+1091
+Daniel Santos
+4100.10
+1092
+Juliana Lima
+2900.00
+1093
+Eduardo Almeida
+4500.00
+1094
+Roberta Rocha
+3200.10
+1095
+Carlos Martins
+5000.50
+1096
+Patrícia Pereira
+3800.40
+1097
+Ricardo Barbosa
+4600.30
+1098
+Fernanda Costa
+3400.20
+1099
+Lucas Souza
+4900.60
+1100
+Mariana Santos
+3700.10

@@ -1,0 +1,800 @@
+Daniel Rocha
+58K188NXK2SVYTI0L
+Fiesta
+Toyota
+Preto
+Etanol
+2001
+NGD4889
+Daniel Santos
+BY3RL0M5MSLS6ZEMY
+Onix
+Fiat
+Prata
+GNV
+2014
+IPP7684
+Daniel Silva
+Q283TLBNZNW28J6XR
+Uno
+Fiat
+Vermelho
+Diesel
+2006
+MID9154
+Carlos Silva
+GN08NDO5SYY99NUG4
+Focus
+Honda
+Vermelho
+Gasolina
+2009
+CUT7867
+Beatriz Souza
+4NAYBS57PEEE9HJ0F
+HB20
+Ford
+Azul
+GNV
+1997
+JNC3883
+Roberta Silva
+DOYBC2BDR1R9ES2P8
+Gol
+Hyundai
+Branco
+Gasolina
+2018
+MPC9443
+Daniel Santos
+WCIKWZ1KLTXH9DU0M
+Uno
+Ford
+Branco
+GNV
+2021
+BIW7424
+André Lima
+5QLL9YOCFB6161SSP
+Gol
+Toyota
+Branco
+GNV
+2014
+GMA2081
+Felipe Souza
+9TQ468K0N2F540YB5
+Uno
+Toyota
+Preto
+GNV
+2005
+KBJ4637
+Ana Santos
+BO7NIA48US6DR975P
+Cruze
+Ford
+Azul
+Etanol
+2012
+YZJ6699
+Eduardo Rocha
+HIEA6BG9ZJH5GR4F7
+Fiesta
+Toyota
+Branco
+GNV
+2023
+MZB5656
+Camila Silva
+ZF6U3EC7KKFLZAZGA
+Cruze
+Hyundai
+Vermelho
+Gasolina
+2014
+NDG1699
+Carlos Santos
+4JYNZAQVAEF2ZN80Y
+HB20
+Chevrolet
+Cinza
+Etanol
+1995
+DQJ7858
+Lucas Silva
+I97CV5NG8GKAYDQL2
+Cruze
+Honda
+Cinza
+Etanol
+2021
+KKB0013
+Beatriz Silva
+J335FA6OF05HH7JW1
+Focus
+Honda
+Azul
+GNV
+2002
+PFM4002
+Juliana Rocha
+OGY39K3T3HSJD78WQ
+Corolla
+Hyundai
+Branco
+Gasolina
+2009
+UHO9170
+Maria Barbosa
+F1OIGP4NDCX79K76U
+HB20
+Ford
+Azul
+Flex
+2022
+IKK3188
+Roberto Almeida
+PGFOQDK451KLHTYR9
+HB20
+Fiat
+Preto
+Flex
+2011
+SUP0219
+Ricardo Almeida
+SIR4RIMLXWSSIYW4J
+Focus
+Hyundai
+Prata
+Flex
+2017
+JXY3290
+Camila Silva
+P2ZLL31PS96AEYP4J
+Onix
+Chevrolet
+Branco
+Gasolina
+2005
+ZJR9720
+Daniel Santos
+UC93WNV85KL9V41UM
+Focus
+Chevrolet
+Vermelho
+Diesel
+2024
+FWZ6754
+Eduardo Lima
+VZSBDKDYLAMVGKJX2
+Palio
+Toyota
+Prata
+Etanol
+2023
+DDX8441
+Tatiane Oliveira
+XPSJXCEL9O3OJI4YM
+Palio
+Chevrolet
+Vermelho
+Gasolina
+2004
+CBE2917
+Juliana Oliveira
+MY1JW6TBIQ3ZRPMNA
+Palio
+Hyundai
+Preto
+Diesel
+2009
+VOL6367
+Tatiane Santos
+8HWEQ1YKHAZOMGZX7
+Corolla
+Hyundai
+Azul
+Flex
+2001
+VCG5946
+Felipe Almeida
+R8J175R2HP580P2SN
+Palio
+Volkswagen
+Vermelho
+GNV
+2007
+NBC5029
+Camila Costa
+U00ASKR556T7YDIRI
+Civic
+Ford
+Prata
+Gasolina
+2021
+EMG5749
+Roberto Rocha
+F5JF24R3YYNE11TVA
+Uno
+Hyundai
+Azul
+Flex
+1998
+SBT0008
+Gustavo Lima
+SM03MSNZZTA2V8SKD
+Corolla
+Toyota
+Vermelho
+GNV
+2020
+IWP5694
+Juliana Silva
+2UM505FKHVVJQLJBP
+Onix
+Fiat
+Prata
+Gasolina
+2021
+NEF6520
+Lucas Martins
+TKOUSBJ1TD4QMS0ER
+Onix
+Ford
+Vermelho
+Gasolina
+2018
+BIX7334
+João Lima
+0YI06YHFRSV8T8GOT
+Palio
+Hyundai
+Branco
+GNV
+1999
+FYZ7352
+Patrícia Souza
+GUM54UBC3G0N4YWT1
+HB20
+Toyota
+Branco
+Gasolina
+2016
+FBV2738
+Gustavo Silva
+TBREECHJM24I9RVIX
+HB20
+Ford
+Preto
+Etanol
+2020
+GVE7727
+Daniel Barbosa
+PJCRRNCSJLK6KF0EL
+Palio
+Honda
+Azul
+Diesel
+1997
+BTS2982
+Daniel Santos
+BU76AXNWTRR0R48Y0
+Fiesta
+Fiat
+Preto
+Diesel
+2016
+TYL7269
+Mariana Martins
+KBH6RHFDSHEEODLG4
+Gol
+Chevrolet
+Branco
+Diesel
+2001
+RRC3441
+Ricardo Lima
+7MK4Q2IS14NGQDUA9
+HB20
+Toyota
+Cinza
+Diesel
+2011
+CEN4181
+Fernanda Souza
+FBCS52C485G3OTVHX
+Civic
+Hyundai
+Vermelho
+Diesel
+2012
+FTI9219
+Eduardo Santos
+KEMUXXYMCCFGV2C47
+Cruze
+Honda
+Cinza
+Diesel
+2009
+KTK2662
+Lucas Silva
+IWWNTZ4S60VFCOFVJ
+HB20
+Ford
+Branco
+GNV
+2005
+XAZ7710
+Fernanda Lima
+JDA31UCA7JJLSHMXU
+Fiesta
+Ford
+Azul
+Etanol
+2009
+WSD1868
+Beatriz Rocha
+WN6R29JSPQBQ4U2YJ
+Corolla
+Honda
+Vermelho
+Diesel
+1995
+DJQ8821
+Mariana Oliveira
+M0ADLI6TCR6MQ2IB4
+Focus
+Chevrolet
+Preto
+Flex
+1995
+SGF0255
+Felipe Silva
+3YLSDB1F327M8O32R
+HB20
+Ford
+Preto
+Flex
+1996
+TSD6265
+Beatriz Costa
+2IZ72T46TKQ25N5Q4
+Cruze
+Chevrolet
+Azul
+GNV
+2020
+DXX5773
+Daniel Rocha
+49DATR1VZQ2O1H2PL
+Focus
+Toyota
+Azul
+Diesel
+2005
+TYD0534
+Carlos Oliveira
+3SCA4LPE3RLPQWNEY
+Cruze
+Chevrolet
+Prata
+GNV
+2013
+VQZ6183
+Mariana Almeida
+BE1PUE3F2LXZQAQTE
+Civic
+Volkswagen
+Vermelho
+Diesel
+2011
+BFK4499
+Eduardo Costa
+VXG8U3RE8GM1GL20J
+Palio
+Ford
+Prata
+Gasolina
+2024
+YFK9896
+Carlos Rocha
+NFB05BQ2VGSR9XCKH
+Palio
+Honda
+Vermelho
+Gasolina
+2007
+VTT0186
+Patrícia Souza
+K3YRUFOT0NZNMRBDJ
+Cruze
+Volkswagen
+Cinza
+Flex
+2016
+VGN4248
+Tatiane Martins
+KFT45M343EODWYH2V
+Civic
+Hyundai
+Preto
+Diesel
+2011
+GFL7709
+André Oliveira
+S53R0XT806JQ6MT8V
+Corolla
+Fiat
+Vermelho
+Etanol
+2019
+KUK5540
+Fernanda Martins
+E00E1HWMB7SV1VICV
+Gol
+Toyota
+Vermelho
+Flex
+2016
+AXD0277
+Maria Santos
+93KBTA6JPK2RIPTPU
+Cruze
+Ford
+Vermelho
+Etanol
+2019
+ZKJ5368
+Ricardo Silva
+SBF6M18MGB1DQ6D4L
+Cruze
+Fiat
+Cinza
+Flex
+2022
+RIZ4109
+Camila Barbosa
+CYIGUSD5A57A65SI2
+Civic
+Volkswagen
+Preto
+Diesel
+2000
+HQT4202
+Roberta Souza
+HP5CFWBXKVIOEWQ9U
+Onix
+Volkswagen
+Branco
+Flex
+2009
+WNP1206
+Fernanda Oliveira
+0MYOTXJOYL8UNMXXE
+Cruze
+Ford
+Branco
+Gasolina
+2013
+UAS6422
+Ricardo Barbosa
+ETGHMTCZ6EUA8L881
+Onix
+Ford
+Cinza
+Etanol
+2010
+VGC1681
+Gustavo Rocha
+ELF8BOE1DCSP9ZZUB
+Cruze
+Volkswagen
+Prata
+Flex
+2008
+EJC8411
+Maria Barbosa
+OLPYNKIZ84IBPEVQA
+Civic
+Hyundai
+Prata
+Etanol
+2022
+NPS7492
+André Rocha
+I52CSHSRGKERJF1SB
+Palio
+Chevrolet
+Preto
+GNV
+2001
+PLY0620
+João Santos
+RNRTBYA0RZPSXDUJN
+Uno
+Fiat
+Prata
+Flex
+1999
+UAF4480
+Maria Pereira
+9NY1RJMY2RAGWOWJV
+Fiesta
+Chevrolet
+Prata
+Etanol
+2012
+MRC0158
+Daniel Souza
+58K0FA1FSUW65G3SA
+Uno
+Chevrolet
+Branco
+GNV
+2016
+RLC5631
+Ana Rocha
+9Z3BCIQS3OFMARC1K
+Uno
+Volkswagen
+Vermelho
+Etanol
+2004
+ONI6254
+Mariana Martins
+LXYMDL3MN1L5WVTAP
+Onix
+Ford
+Vermelho
+Diesel
+2013
+TMU3078
+Roberta Silva
+DK7UAOG3SGVYLPGY5
+Cruze
+Toyota
+Branco
+GNV
+2021
+AVD9399
+Ana Barbosa
+JR0N4TAX0BMXYLY35
+Civic
+Toyota
+Azul
+Diesel
+2014
+CBM2496
+Felipe Almeida
+5WU9E0NWKLFJC1FTI
+Fiesta
+Honda
+Azul
+Flex
+2015
+NWB3583
+Tatiane Souza
+P8BUDDSFJY7TRLU33
+Focus
+Volkswagen
+Cinza
+Gasolina
+2010
+OWE4232
+Beatriz Costa
+E8W24SA20FF4D8TW0
+HB20
+Fiat
+Azul
+Gasolina
+2007
+ENN1251
+Beatriz Lima
+EY6M9EVDZK04DJ93G
+HB20
+Honda
+Vermelho
+Flex
+2019
+GGO2292
+Roberto Oliveira
+L30Y22SK0JOPW9924
+Focus
+Toyota
+Azul
+Diesel
+1996
+FWV8210
+Eduardo Oliveira
+BGVHU12BAHGAE2OYH
+Corolla
+Volkswagen
+Branco
+Diesel
+2014
+RVD8608
+Beatriz Oliveira
+3WV1JLW45O0WRTT1Z
+Cruze
+Hyundai
+Prata
+GNV
+2017
+DUP4234
+Patrícia Almeida
+J78Q5CQP3KPSI9UXO
+Cruze
+Fiat
+Cinza
+Etanol
+2023
+HPI5785
+João Oliveira
+URZNTYS8XVAZVLQQD
+Focus
+Ford
+Branco
+Diesel
+1996
+JKC8254
+Patrícia Oliveira
+JFHL0345HHBGN42R9
+Uno
+Honda
+Preto
+Flex
+2019
+EUG0554
+Patrícia Rocha
+35RBFC978E1IE7JWX
+Fiesta
+Volkswagen
+Azul
+GNV
+2020
+QCT4751
+Fernanda Pereira
+WD8IVL0NQ70O1H1I4
+Palio
+Ford
+Azul
+Gasolina
+2006
+OQD7594
+Roberta Santos
+0JF1WRV7W0NLI5I0J
+Gol
+Toyota
+Azul
+GNV
+1996
+TRR3285
+Patrícia Almeida
+A8HU55VTXYVZKH450
+Gol
+Toyota
+Azul
+Etanol
+2024
+ZPR6298
+Fernanda Souza
+4FK2GI0PINMWTDX4T
+Civic
+Chevrolet
+Azul
+Gasolina
+2019
+IAD8703
+Roberta Almeida
+8VE1NZET383ZA87LI
+Focus
+Fiat
+Azul
+Diesel
+1995
+IVY3623
+Maria Costa
+OGQP3IPEONUVJ65Q6
+Fiesta
+Honda
+Prata
+Flex
+2021
+XFR7837
+Patrícia Costa
+164AD11CR0IQ8KLQC
+Fiesta
+Hyundai
+Prata
+Etanol
+2007
+TMA7875
+Beatriz Barbosa
+VX0BX7882A2E7B9MC
+Focus
+Honda
+Prata
+Flex
+1997
+AQN3642
+Roberta Martins
+3WD2VGO1S7TUGP509
+Onix
+Toyota
+Vermelho
+GNV
+2001
+SBJ8305
+Daniel Almeida
+WTE2APBQ69RLDQR1X
+Onix
+Volkswagen
+Vermelho
+Diesel
+2014
+TCK1532
+Beatriz Barbosa
+5HS1MMO1NBWWGTL1H
+Civic
+Fiat
+Branco
+Etanol
+2008
+BSO3793
+Mariana Santos
+T4Y7SEZZ0HW8O4HYL
+HB20
+Volkswagen
+Vermelho
+Flex
+2013
+PAU4167
+Beatriz Silva
+M4VBPU2PXN4S1A3QZ
+Focus
+Chevrolet
+Branco
+Gasolina
+2024
+GKI9341
+Roberta Silva
+31E7DM51IQ5SKB81V
+Onix
+Fiat
+Branco
+GNV
+2008
+RGB9925
+Fernanda Martins
+0CN81YLKFPFHB89XV
+Fiesta
+Toyota
+Branco
+GNV
+2015
+GYN2169
+Ana Souza
+CHWIADBW3LX6HYSWR
+Palio
+Chevrolet
+Prata
+Diesel
+2000
+EWY2138
+Patrícia Rocha
+W8VRQQN4H8LIBBQO4
+Gol
+Volkswagen
+Prata
+Etanol
+2021
+GGM3914
+Eduardo Lima
+RXRKK1M1QADAI9XOX
+Corolla
+Fiat
+Branco
+Gasolina
+1996
+CLS9024
